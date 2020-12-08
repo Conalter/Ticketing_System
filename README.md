@@ -1,6 +1,6 @@
 # Ticketing_System
 
-Background
+Background:
 A ticketing system is required for the collection, logging and management of IT support requests from users of IT systems in your organisation. Information about the requirements are detailed below.
 
 Registration:
